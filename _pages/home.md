@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Gerardo J. Félix-Martínez - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Gerardo Félix at Universidad Autónoma Metropolitana"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+We are a research group at the [Universidad Autónoma Metropolitana](http://www.uam.mx) focused on understanding the functional implications of the pancreatic islet architecture through computational models. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -57,7 +56,7 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 </div>
 
 
-
+We develop mathematical and computational models to generate and evaluate hypotheses to explain the experimental observations. We are interested in everything related to pancreatic islets and endocrine cells, both experimental and theoretical.
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
 
