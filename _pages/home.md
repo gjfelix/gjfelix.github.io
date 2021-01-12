@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group at the [Universidad Autónoma Metropolitana](http://www.uam.mx) focused on understanding the functional implications of the pancreatic islet architecture through computational models. 
+I am a [CONACYT](http://www.conacyt.mx) research fellow working at the Laboratory of Biophysics of the [Universidad Autónoma Metropolitana](http://www.uam.mx). My research aims to gain a better understanding of the functional implications of the pancreatic islet architecture. I develop mathematical and computational models to generate and evaluate plausible hypotheses to explain the experimental observations. I am particularly interested in everything related to pancreatic islets and pancreatic endocrine cells, both experimental and theoretical.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -55,12 +55,6 @@ We are a research group at the [Universidad Autónoma Metropolitana](http://www.
   </a>
 </div>
 
-
-We develop mathematical and computational models to generate and evaluate hypotheses to explain the experimental observations. We are interested in everything related to pancreatic islets and endocrine cells, both experimental and theoretical.
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
