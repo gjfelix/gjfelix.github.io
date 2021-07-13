@@ -36,7 +36,7 @@ I am a [CONACYT](http://www.conacyt.mx) (National Council of Science and Technlo
             <img src="{{ site.url }}{{ site.baseurl }}/images/carrusel/Esquema_Beta.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carrusel/FiguraCromafines.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carrusel/Figura_Cromafines.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carrusel/APs_Deltas.png" alt="Slide 6" />
