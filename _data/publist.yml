@@ -1,10 +1,10 @@
 - title: "Reconstructing human pancreatic islet architectures using computational optimization"
-  image: Reconstructing_cover.png
-  description:
+  image: Reconstructing_pub.png
+  description: In this paper we develop an algorithm to reconstruct islet architectures from experimental data.
   authors: GJ Felix-Martinez, A Nicolas-Mata, JR Godinez-Fernandez
   link:
     url: https://www.tandfonline.com/doi/abs/10.1080/19382014.2020.1823178
-    display:  Islets 12.6(2020):121-133
+    display:  Islets 12.6 (2020):121-133
   highlight: 1
   news2:
 
