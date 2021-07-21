@@ -1,5 +1,5 @@
 ---
-title: "GJ Félix-Martínez - Publications"
+title: "Gerardo J. Félix-Martínez - Publications"
 layout: gridlay
 excerpt: "GJ Félix-Martínez - Publications"
 sitemap: false
