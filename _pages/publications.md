@@ -1,7 +1,7 @@
 ---
 title: "Gerardo J. Félix-Martínez - Publications"
 layout: gridlay
-excerpt: "GJ Félix-Martínez - Publications"
+excerpt: "Gerardo J. Félix-Martínez - Publications"
 sitemap: false
 permalink: /publications/
 ---
