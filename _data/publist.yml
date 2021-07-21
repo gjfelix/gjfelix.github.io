@@ -9,7 +9,7 @@
   news2:
 
 - title: "Deterministic modeling of single-channel and whole-cell currents"
-  image: TBG_ARPES.png
+  image: Kenia_pub.png
   description: Single-channel currents are simulated using a deterministic chaotic model. In addition, whole-cell currents are also reproduced.
   authors: KL Juayerk-Herrera, GJ Félix Martínez, JL del Río-Correa, A Picones, JR Godínez-Fernández
   link:
@@ -19,17 +19,17 @@
   news2:
 
 - title: "Comparative analysis of screening models for undiagnosed diabetes in Mexico"
-  image: TBG_ARPES.png
+  image: EDN_comparative_pub.png
   description: We compare screening models for undiangosed diabetes in the adult Mexican population and develop a statistical model based on a National Health Survey.
   authors: GJ Félix-Martínez, JR Godínez-Fernández
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S2530016419302307
     display:  Endocrinologia, diabetes y nutrición 67 (5), 333-341
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Electrophysiological models of the human pancreatic &delta;‐cell: From single channels to the firing of action potentials"
-  image: STS_news.png
+  image: Delta_pub.png
   description: We develop a model of the electrical activity of the human pancreatic delta cell based on single-channel currents. 
   authors: GJ Félix-Martínez, V González-Vélez, JR Godínez-Fernández, A Gil
   link:
