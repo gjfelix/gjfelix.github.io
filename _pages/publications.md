@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "GJ Félix-Martínez - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "GJ Félix-Martínez - Publications"
 sitemap: false
 permalink: /publications/
 ---
